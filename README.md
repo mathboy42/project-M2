@@ -3,4 +3,4 @@
 ## titre 2
 ### titre 3
 
-Ceci est du ""gras""
+Ceci est du **gras**
